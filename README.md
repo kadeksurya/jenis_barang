@@ -1,2 +1,0 @@
-# jenis_barang
-ini
