@@ -1,0 +1,2 @@
+# jenis_barang
+ini
